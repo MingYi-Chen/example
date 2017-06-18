@@ -1,8 +1,5 @@
 test1
 master1
-<<<<<<< HEAD
 question/1
 ttt
-=======
 vvv
->>>>>>> question/a

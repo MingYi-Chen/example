@@ -4,3 +4,4 @@ question/1
 ttt
 vvv
 uuuu
+squash-b2

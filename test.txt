@@ -4,3 +4,5 @@ question/1
 ttt
 vvv
 uuuu
+squash
+squash1
